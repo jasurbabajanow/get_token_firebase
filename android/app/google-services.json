@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308285794547",
+    "project_id": "akmyrat-c67f0",
+    "storage_bucket": "akmyrat-c67f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308285794547:android:f3e965ed12bbb8df176f86",
+        "android_client_info": {
+          "package_name": "com.example.akmyrat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB54mHXKZ77hqVQYPbUDCi1kZKP73nowfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
